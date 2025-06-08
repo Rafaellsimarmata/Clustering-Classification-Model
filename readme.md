@@ -1,4 +1,4 @@
-# Machine Learning for Beverage Sales: Clustering & Classification
+# Machine Learning for Facebook live sellers: Clustering & Classification
 
 ## 📌 Overview
 This repository contains a Machine Learning project for analyzing  Facebook live sellers data through clustering and classification techniques.
